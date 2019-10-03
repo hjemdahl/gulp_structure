@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/main.js"],"names":["hello","name","concat"],"mappings":"aAAA,IAAMA,MAAQ,SAACC,GACX,MAAA,SAAAC,OAAgBD","file":"main.js","sourcesContent":["const hello = (name) => {\n    return `hello ${name}`;\n};\n"]}
